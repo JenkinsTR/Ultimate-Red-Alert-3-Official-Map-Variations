@@ -1,0 +1,260 @@
+ [NO SW]
+ alliedsuperweaponadvanced
+ japansuperweaponadvanced
+ sovietsuperweaponadvanced
+ alliedsuperweapon
+ japansuperweapon
+ sovietsuperweapon
+ japansuperweaponegg
+ japansuperweaponadvancedegg
+ 
+ [NO AIR]
+ alliedairfieldrepairdrone
+ alliedantiairmissileprojectile
+ alliedantiairmissileprojectile_veteran
+ alliedantiairship
+ alliedantiairvehicletech1
+ alliedantigroundaircraft
+ alliedbomberaircraft
+ alliedfighteraircraft
+ alliedsupportaircraft
+ japanantiairship
+ japanantivehicleinfantrytech3
+ japanantiairvehicletech1
+ japanantiinfantryvehicle
+ sovietbombingrunbeacon
+ sovietairfield
+ sovietbasedefenseair
+ sovietantiairship
+ sovietantiairship_ground
+ sovietantigroundaircraft
+ sovietbomberaircraft
+ sovietfighteraircraft
+ sovietsupportbomber
+ sovietbomberaircraft_special
+ sovietsupportbomber_s07
+ japanscoutinfantry
+ alliedtechstructure
+ alliedairfield
+ 
+ [NO UPGRADES]
+ PlayerTech_Allied_AirPower
+ PlayerTech_Allied_ChronoRift_Rank1
+ PlayerTech_Allied_ChronoRift_Rank2
+ PlayerTech_Allied_ChronoRift_Rank3
+ PlayerTech_Allied_ChronoSwap
+ PlayerTech_Allied_CryoSatellite_Rank1
+ PlayerTech_Allied_CryoSatellite_Rank2
+ PlayerTech_Allied_CryoSatellite_Rank3
+ PlayerTech_Allied_HighTechnology
+ PlayerTech_Allied_PrecisionStrike
+ PlayerTech_Allied_SatelliteSweep
+ PlayerTech_Allied_TimeBomb_Rank1
+ PlayerTech_Allied_TimeBomb_Rank2
+ PlayerTech_Allied_TimeBomb_Rank3
+ PlayerTech_Japan_AdvancedMissilePacks
+ PlayerTech_Japan_Ambush
+ PlayerTech_Japan_BalloonAttack_Rank1
+ PlayerTech_Japan_BalloonAttack_Rank2
+ PlayerTech_Japan_BalloonAttack_Rank3
+ PlayerTech_Japan_EmperorsRage_Rank1
+ PlayerTech_Japan_EmperorsRage_Rank2
+ PlayerTech_Japan_EmperorsRage_Rank3
+ PlayerTech_Japan_EnhancedKamikaze
+ PlayerTech_Japan_FinalSquadron_Rank1
+ PlayerTech_Japan_FinalSquadron_Rank2
+ PlayerTech_Japan_FinalSquadron_Rank3
+ PlayerTech_Japan_NavalPower
+ PlayerTech_Japan_PointDefenseDrones
+ PlayerTech_Soviet_CrushPuppies
+ PlayerTech_Soviet_DesolatorBomb_Rank1
+ PlayerTech_Soviet_DesolatorBomb_Rank2
+ PlayerTech_Soviet_DesolatorBomb_Rank3
+ PlayerTech_Soviet_IrradiateTarget
+ PlayerTech_Soviet_MagneticSatellite_Rank_1
+ PlayerTech_Soviet_MagneticSatellite_Rank_2
+ PlayerTech_Soviet_MagneticSatellite_Rank_3
+ PlayerTech_Soviet_MagneticSingularity
+ PlayerTech_Soviet_OrbitalRefuse_Rank1
+ PlayerTech_Soviet_OrbitalRefuse_Rank2
+ PlayerTech_Soviet_OrbitalRefuse_Rank3
+ PlayerTech_Soviet_ProductionKickbacks
+ PlayerTech_Soviet_TerrorDroneEggs
+  
+ [NO SW/NO AIR]
+ Combo of the above 3
+ 
+ [INF ONLY]
+ No Air plus;
+ alliednavalyard
+ alliedantiairship
+ alliedantiairvehicletech1
+ alliedantiinfantryvehicle
+ lliedantiinfantryvehicle_ground
+ alliedantinavalscout
+ alliedantinavyshiptech1
+ alliedantistructureship
+ alliedantistructurevehicle
+ alliedantivehiclevehicletech1
+ alliedantivehiclevehicletech3
+ alliedmcv_naval
+ alliedminer_naval
+ japanantiairship
+ japanantiairvehicletech1
+ japanantiinfantryvehicle
+ japanantistructureship
+ japanantistructurevehicle
+ japanantivehicleship
+ japanantivehiclevehicletech1
+ japanantivehiclevehicletech1_naval
+ japanantivehiclevehicletech3
+ japanmcv_naval
+ japanminer_naval
+ japannavalyardegg
+ sovietnavalyard
+ sovietantiairship
+ sovietantiairship_ground
+ sovietantiinfantryvehicle
+ sovietantinavyshiptech1
+ sovietantinavyshiptech2
+ sovietantistructureship
+ sovietantistructurevehicle
+ sovietantivehiclevehicletech1
+ sovietantivehiclevehicletech2
+ sovietantivehiclevehicletech3
+ sovietmcv_naval
+ sovietminer_naval
+ sovietscoutvehicle
+ sovietsurveyor_naval
+ alliedoutpost 
+ 
+ [TANKS ONLY]
+ alliednavalyard
+ alliedantiairship
+ alliedantinavyshiptech1
+ alliedantistructureship
+ alliedmcv_naval
+ alliedminer_naval
+ japanantiairship
+ japanantistructureship
+ japanantivehicleship
+ japanmcv_naval
+ japanminer_naval
+ japannavalyardegg
+ sovietnavalyard
+ sovietantiairship
+ sovietantiairship_ground
+ sovietantinavyshiptech1
+ sovietantinavyshiptech2
+ sovietantistructureship
+ sovietmcv_naval
+ sovietminer_naval
+ sovietsurveyor_naval
+ AlliedAntiInfantryInfantry
+ AlliedAntiVehicleInfantry
+ AlliedCommandoTech1
+ AlliedEngineer
+ AlliedInfiltrationInfantry
+ AlliedScoutInfantry
+ JapanAntiInfantryInfantry
+ JapanAntiVehicleInfantry
+ JapanAntiVehicleInfantry_Ambush
+ JapanAntiVehicleInfantryTech3
+ JapanCommandoTech1
+ JapanEngineer
+ JapanInfiltrationInfantry
+ JapanScoutInfantry
+ SovietAntiInfantryInfantry
+ SovietAntiVehicleInfantry
+ SovietCommandoTech1
+ SovietEngineer
+ SovietHeavyAntiVehicleInfantry
+ SovietScoutInfantry
+ 
+No Superweapons script by Jenkins
+www.jenkinsmedia.com.au
+
+No Air script by Jenkins
+www.jenkinsmedia.com.au
+
+No Superweapons, No Upgrades & No Air
+scripts by Jenkins
+www.jenkinsmedia.com.au
+
+No Tanks, No Navy & No Air scripts by Jenkins
+www.jenkinsmedia.com.au
+
+No Infantry, No Navy & No Air scripts by Jenkins
+www.jenkinsmedia.com.au
+
+
+Unit Names:
+
+ -AlliedAntiAirShip					 - Hydrofoil
+ -AlliedAntiAirVehicleTech1			 - IFV
+ -AlliedAntiGroundAircraft			 - Vindicator
+ -AlliedAntiInfantryInfantry		 - Peacekeeper
+ -AlliedAntiNavalScout				 - Dolphin
+ -AlliedAntiNavyShipTech1			 - Assault Destroyer
+ -AlliedAntiStructureShip			 - Aircraft Carrier
+ -AlliedAntiStructureVehicle		 - Athena Cannon
+ -AlliedAntiVehicleInfantry			 - Missile Trooper
+ -AlliedAntiVehicleVehicleTech1		 - Chieftain Tank
+ -AlliedAntiVehicleVehicleTech3		 - Primage Tank
+ -AlliedBomberAircraft				 - B-69 Heavy Bomber
+ -AlliedCommandoTech1				 - Tanya
+ -AlliedEngineer					 - Engineer
+ -AlliedFighterAircraft				 - Prism Fighter
+ -AlliedInfiltrationInfantry		 - Spy
+ -AlliedMCV							 - MCV
+ -AliledMiner						 - Ore Truck
+ -AlliedScoutInfantry				 - Dog
+ -AlliedSupportAircraft				 - Cryocopter
+
+ -SovietAntiAirShip					 - Zhukov Transport
+ -SovietAntiGroundAircraft			 - Hind
+ -SovietAntiInfantryInfantry		 - Conscript
+ -SovietAntiInfantryVehicle			 - Sickle
+ -SovietAntiNavyShipTech1			 - Stingray
+ -SovietAntiNavyShipTech2			 - Kraken (Submarine)
+ -SovietAntiStructureShip			 - Leviathan
+ -SovietAntiStructureVehicle		 - Hammer (V4)
+ -SovietAntiVehicleInfantry			 - FlakTrooper
+ -SovietAntiVehicleVehicleTech1		 - Tsar Tank
+ -SovietAntiVehicleVehicleTech3		 - Apocalypse Tank
+ -SovietBomberAircraft				 - Kirov
+ -SovietCommandoTech1				 - Natasha
+ -SovietEngineer					 - Combat Engineer
+ -SovietFighterAircraft				 - Mig
+ -SovietHeavyAntiVehicleInfantry	 - Tesla Trooper
+ -SovietHeavyTransportShip			 - Heavy Transport
+ -SovietMCV							 - MCV
+ -SovietMiner						 - Ore Truck
+ -SovietScoutInfantry				 - Bear
+ -SovietScoutVehicle				 - Terror Drone
+ -SovietSurveyor					 - Sputnik
+
+ -JapanAntiAirShip					 - AA Submarine
+ -JapanAntiAirVehicleTech1			 - Sorazatsu
+ -JapanAntiInfantryInfantry			 - Imperial Warrior
+ -JapanAntiInfantryVehicle			 - Bajutsu Fast Attack Mecha
+ -JapanAntiStructureShip			 - Battleship
+ -JapanAntiStructureVehicle			 - Ki Cannon
+ -JapanAntiVehicleInfantry			 - Armor Assassin
+ -JapanAntiVehicleInfantryTech3		 - Crisis Suit
+ -JapanAntiVehicleShip				 - Fugu Vanguard Warship
+ -JapanAntiVehicleVehicleTech1		 - Main Battle Tank
+ -JapanAntiVehicleVehicleTech3		 - Jinzatsu
+ -JapanCommandoTech1				 - Psyonic Commando
+ -JapanEngineer						 - Engineer
+ -JapanInfiltrationInfantry			 - Ninja
+ -JapanLightTransportVehicle		 - Hover Transport
+ -JapanMCV							 - MCV
+ -JapanMiner						 - Ore Truck
+ -JapanNavyScoutShip				 - Mini-Sub
+ -JapanScoutInfantry				 - Recon Drone (Dragonfly)
+
+
+Structure Names:
+
+ -TODO
