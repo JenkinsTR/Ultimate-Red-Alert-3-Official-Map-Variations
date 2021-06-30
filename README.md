@@ -2,12 +2,15 @@
  An ultimate collection of Red Alert 3 official map variations
 
   ---------------------------
-  Total Maps in this pack: 	255
+  
+  Total Maps in this pack: 255
+  
   Total variations per map: 5
   
   PACK SIZE: 229 MB
+  
   INSTALL SIZE: 627 MB
-  ---------------------------
+  
   ---------------------------
   
   ATTN COMMANDER;
@@ -20,47 +23,34 @@
  
   ---------------------------
   
-  THE VARIATIONS:
+  # THE VARIATIONS:
   
-  ---------------------------
-  No Superweapons (NO SW):
-  ---------------------------
+  ## No Superweapons (NO SW)
   This is pretty self explanatory. Allied, Soviet & Empire OTRS super weapons have been DISABLED.
   The idea of No Superweapons is to balance the later end-game gameplay.
   
-  ---------------------------
-  No Aircraft (NO AIR)
-  ---------------------------
+  ## No Aircraft (NO AIR)
   Also self explanatory, and I also DISABLED the ability to build Anti Air structures and Units dedicated to AA.
   This mode is perfect for large base building, as you are restricted to purely ground units.
   The inclusion of ITEM and WEAPON DROPS, plus SUPERWEAPONS is more than enough to even the battlefield.
   
-  ---------------------------
-  No Superweapons AND No Aircraft (NO SW/NO AIR)
-  ---------------------------
+  ## No Superweapons AND No Aircraft (NO SW/NO AIR)
   A combination of the above 2. My personal favourite map variation in Red Alert 3.
   ITEM and WEAPON DROPS, plus SUPERWEAPONS are all DISABLED.
   Allied Airfield is ALLOWED however you cannot use it to build Aircraft. This is for tech upgrade reasons.
   This is also the best mode for large base building and tower defense style.
   So long as you have a well defended base, nothing can destroy it.
   The AI adapts quite well in this mode, as with pretty much any others.
-    
-  ---------------------------
-  Infantry Only (INF ONLY)
-  ---------------------------
+  
+  ## Infantry Only (INF ONLY)
   Again this one explains itself. Pure infantry, most Naval units DISABLED but some are included in need for travelling across water areas.
   No War Factories can be built, no Airfields, and Anti-AA and Anti-Tank defenses are also DISABLED.
   
-  ---------------------------
-  Tanks Only (TANKS ONLY)
-  ---------------------------
+  ## Tanks Only (TANKS ONLY)
   Another self explained variation. The difference with Infantry Only is that building light base defenses is allowed here.
   All other unit types (except minor naval) are DISABLED.
-  
-  ---------------------------
-  ---------------------------
-  
-  Tidbits:
+    
+  # Tidbits:
   - This pack includes the official Uprising Expansion maps for your battle pleasure in vanilla Red Alert 3 without the need for mods.
 	Those Uprising map ports are by Bibber.
 	Original official RA3 & Uprising maps by;
@@ -103,10 +93,7 @@
 	RA3 Mod SDK And WB FAQ (Updated 11/7/2012):
 	http://www.commandandconquer.com/forums/index.php/topic/30492-ra3-mod-sdk-and-wb-faq-updated-1172012/
   
-  
-  ---------------------------
-  ---------------------------
-  The Backstory:
+  # The Backstory:
   
   I created this pack and these map variations because of the same limited options and tactics getting stale within the game over time.
     
